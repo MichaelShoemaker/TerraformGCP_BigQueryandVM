@@ -3,5 +3,5 @@ Template for using Terraform to create a Big Query Dataset and Compute Instance 
 
 Git clone this directory locally. Create a service account on GCP with the permission Project Owner.</br>
 Move the .json key file to the directory.</br>
-Run ```terrraform init```
+Run ```terraform init```
 And then ```terraform apply```
